@@ -1,6 +1,6 @@
 ### Player Count
 
-An analysis was ran on [purchase data](Resources/purchase_data.csv) for users that play the game Heroes of Pymoli. The following topics were analyzed and information was displayed neatly in data frames.
+An analysis was ran on [purchase data](purchase_data.csv) for users that play the game Heroes of Pymoli. The following topics were analyzed and information was displayed neatly in data frames.
 
 * Total Number of Players
 
