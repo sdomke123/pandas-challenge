@@ -1,6 +1,8 @@
-### Player Count
+### Pandas Challenge - Heroes of Pymoli
 
 An analysis was ran on [purchase data](HeroesOfPymoli/Resources/purchase_data.csv) for users that play the game Heroes of Pymoli. The following topics were analyzed and information was displayed neatly in data frames.
+
+### Player Count
 
 * Total Number of Players
 
